@@ -1,12 +1,12 @@
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=838bb2&height=100&section=header&text=&nbsp;느리지만&nbsp;멈추지&nbsp;않는&nbsp;개발자,&nbsp;오준선입니다💻&fontColor=FFF0F8FF&fontSize=30&animation=fadeIn&fontAlignY=55)<br/><br/>  
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=838bb2&height=100&section=header&text=&nbsp;느리지만&nbsp;멈춰버린&nbsp;개발자,&nbsp;오준선입니다💻&fontColor=FFF0F8FF&fontSize=30&animation=fadeIn&fontAlignY=55)<br/><br/>  
 
 ---    
 <br/>
 
 ### 👋안녕하세요!👋<br/><br/>
-#### 저는 경기게임마이스터고등학교에 재학중인 오준선 입니다.
+#### 저는 경기게임마이스터고등학교에서 버려져버린 오준선 입니다.
 ###### 저는 2학년 때는 기획을 지망하고 3학년이 되어서 서버 개발을 공부 중 입니다!
 ###### 꾸준한 개발자가 되기 위해 항상 <span style="background-color:Beige"><b>배우고</b></span>,  <span style="background-color:Beige"><b>내 것으로 만들기</b></span> 위해 노력 하고 있습니다.
 ###### 항상 <span style="background-color:Beige"><b>어제 보다 나은 자신</b></span>이 되기 위해 노력하며 멈추지 않고 성장 중 입니다!
